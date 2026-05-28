@@ -41,7 +41,7 @@ Accessibility Statement
 ## Screenshots
 
 ### Home Page
-![Home](images/home.png)
+![Home](images/home.PNG)
 
 ### Shop Page
 ![Shop](images/products.png)
