@@ -1,4 +1,4 @@
-Name:Elie Mugabutuje🎓 Reg Number23072/2023
+Name:Elie Mugabutuje Reg Number23072/2023
 
 JSY — The Gift of Good Style 
 
@@ -10,7 +10,7 @@ About
 JSY is an online lifestyle and accessories store offering a curated selection of trendy, affordable products. Whether you're shopping for yourself or looking for the perfect gift, JSY brings together style and value under one roof.
 
 Product Categories
-CategoryDescription🏠 Home & LivingCoastal plates, geometric bedding, and everyday home essentials AccessoriesTote bags, phone cases, patterned socks, and more📝 StationeryPlanners, notepads, pens, binder clips, and desk must-haves BundlesCurated product bundles for extra value🏷️ SaleEnd-of-season deals and discounted items
+CategoryDescription Home & LivingCoastal plates, geometric bedding, and everyday home essentials AccessoriesTote bags, phone cases, patterned socks, and more StationeryPlanners, notepads, pens, binder clips, and desk must-haves BundlesCurated product bundles for extra value SaleEnd-of-season deals and discounted items
 
 Features
 
