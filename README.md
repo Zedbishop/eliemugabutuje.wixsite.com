@@ -41,10 +41,10 @@ Accessibility Statement
 ## Screenshots
 
 ### Home Page
-![Home Page](images/home.png)
+![Home](images/home.png)
 
 ### Shop Page
-![Shop Page](images/products.png)
+![Shop](images/products.png)
 
 ### Accessories
 ![Accessories](images/cart.png)
