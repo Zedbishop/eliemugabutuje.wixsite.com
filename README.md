@@ -38,6 +38,23 @@ Shipping Policy
 Refund Policy
 Accessibility Statement
 
+## Screenshots
+
+### Home Page
+![Home Page](images/home.png)
+
+### Shop Page
+![Shop Page](images/products.png)
+
+### Accessories
+![Accessories](images/cart.png)
+
+### Contact Us
+![Accessories](images/contact.png)
+
+### About Us
+![Accessories](images/about.png)
+
 
 Contact
 📧 Emailinfo@mysite.com📞 Phone123-456-7890📍 Address500 Terry Francine Street, San Francisco, CA 94158
