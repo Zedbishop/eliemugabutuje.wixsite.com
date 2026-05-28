@@ -44,16 +44,16 @@ Accessibility Statement
 ![Home](images/home.PNG)
 
 ### Shop Page
-![Shop](images/products.png)
+![Shop](images/products.PNG)
 
 ### Accessories
-![Accessories](images/cart.png)
+![Accessories](images/cart.PNG)
 
 ### Contact Us
-![Accessories](images/contact.png)
+![Accessories](images/contact.PNG)
 
 ### About Us
-![Accessories](images/about.png)
+![Accessories](images/about.PNG)
 
 
 Contact
